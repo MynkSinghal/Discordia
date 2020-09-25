@@ -143,4 +143,4 @@ Make sure you also have your Google server API key, which is located in the "you
 # Help
 Please check the GitHub issues page on this project. We get a lot of similar questions, and it is likely that yours has already been answered. 
 
-If you still need help, feel free to join us on [Discord](https://discord.gg/m29GJBN).
+If you still need help, feel free to join us on [Discord](https://discord.gg/EdhEDSX).
